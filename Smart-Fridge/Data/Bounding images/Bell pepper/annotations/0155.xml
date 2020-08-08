@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0155.jpg</filename>
+	<path>C:\Users\admin\Desktop\data for final project\bell pepper\images\0155.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>210</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bell pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>20</ymin>
+			<xmax>220</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bell pepper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>64</ymin>
+			<xmax>136</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0056.jpg</filename>
+	<path>C:\Users\admin\Desktop\data for final project\lemon\images\0056.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>292</width>
+		<height>173</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lemon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>106</ymin>
+			<xmax>247</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lemon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>91</ymin>
+			<xmax>78</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0007.jpg</filename>
+	<path>C:\Users\nirch\OneDrive\שולחן העבודה\Smart Fridge\cotage\images\0007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>172</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cotage</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>173</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

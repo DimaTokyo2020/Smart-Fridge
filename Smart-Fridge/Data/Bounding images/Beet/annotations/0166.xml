@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Beet</folder>
+	<filename>0166.JPG</filename>
+	<path>C:\Users\Admin\Desktop\Data base smartFridge\Beet\0166.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>211</ymin>
+			<xmax>461</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0097.jpg</filename>
+	<path>C:\Users\nirch\OneDrive\שולחן העבודה\Smart Fridge\onion\images\0097.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>264</ymin>
+			<xmax>667</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Onion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>442</xmin>
+			<ymin>240</ymin>
+			<xmax>545</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0153.jpg</filename>
+	<path>C:\Users\admin\Desktop\data for final project\Lettuce\images\0153.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>187</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>65</ymin>
+			<xmax>254</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>24</ymin>
+			<xmax>167</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>

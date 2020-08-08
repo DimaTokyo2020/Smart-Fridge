@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0190.jpg</filename>
+	<path>C:\Users\Admin\Desktop\Data base smartFridge\Cucumber\images\0190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>263</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cucumber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>118</ymin>
+			<xmax>215</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

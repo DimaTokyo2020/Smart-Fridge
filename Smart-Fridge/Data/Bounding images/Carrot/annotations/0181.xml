@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0181.jpg</filename>
+	<path>C:\Users\admin\Desktop\data for final project\carrot\images\0181.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>298</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>81</ymin>
+			<xmax>101</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>95</ymin>
+			<xmax>105</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

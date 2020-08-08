@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Beer</folder>
+	<filename>0034.jpg</filename>
+	<path>C:\Users\Admin\Desktop\Data base smartFridge\Beer\0034.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>43</ymin>
+			<xmax>164</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

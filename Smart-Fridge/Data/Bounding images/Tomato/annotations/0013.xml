@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0013.jpg</filename>
+	<path>C:\Users\Admin\Documents\GitHub\Smart-Fridge\Data\Bounding images\Tomato\images\0013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>499</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>208</ymin>
+			<xmax>240</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

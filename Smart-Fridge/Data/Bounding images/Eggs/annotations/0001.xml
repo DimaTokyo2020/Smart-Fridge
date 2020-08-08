@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0001.jpg</filename>
+	<path>C:\Users\Admin\Documents\GitHub\Smart-Fridge\Data\Bounding images\Eggs\images\0001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>187</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>91</ymin>
+			<xmax>145</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0084.jpg</filename>
+	<path>C:\Users\admin\Desktop\data for final project\Chocolate\images\0084.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>151</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>2</ymin>
+			<xmax>291</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

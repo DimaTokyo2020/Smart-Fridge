@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0173.jpg</filename>
+	<path>C:\Users\Admin\Desktop\Data base smartFridge\Eggs\images\0173.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>33</ymin>
+			<xmax>176</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>
