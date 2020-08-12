@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>cheese_3104.jpg</filename>
+	<path>/content/Smart-Fridge/Data/Augmented_data/640x480_3_times_smaller_objects/cheese/annotations/cheese_3104.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>225</ymin>
+			<xmax>361</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>
