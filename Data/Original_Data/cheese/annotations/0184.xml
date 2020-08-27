@@ -1,13 +1,13 @@
 <annotation>
-	<folder>images</folder>
+	<folder>temp</folder>
 	<filename>0184.jpg</filename>
-	<path>C:\Users\nirch\OneDrive\שולחן העבודה\Smart Fridge\Cheese\images\0184.jpg</path>
+	<path>C:\Users\nirch\Downloads\temp\0184.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>768</height>
+		<width>4032</width>
+		<height>3024</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>426</xmin>
-			<ymin>369</ymin>
-			<xmax>778</xmax>
-			<ymax>672</ymax>
+			<xmin>1409</xmin>
+			<ymin>1107</ymin>
+			<xmax>2643</xmax>
+			<ymax>2124</ymax>
 		</bndbox>
 	</object>
 </annotation>

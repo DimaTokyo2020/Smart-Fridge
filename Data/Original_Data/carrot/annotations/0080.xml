@@ -1,50 +1,26 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0080.jpg</filename>
-	<path>C:\Users\admin\Desktop\data for final project\carrot\images\0080.jpg</path>
+	<path>C:\Users\admin\Desktop\משה\לימודים\שנה ג\פרויקט גמר\data for final project\carrot\images\0080.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>300</width>
-		<height>168</height>
+		<width>298</width>
+		<height>169</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>carrot</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>59</xmin>
-			<ymin>2</ymin>
-			<xmax>108</xmax>
-			<ymax>28</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>carrot</name>
-		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>99</xmin>
+			<xmin>122</xmin>
 			<ymin>1</ymin>
-			<xmax>126</xmax>
-			<ymax>51</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>carrot</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>127</xmin>
-			<ymin>5</ymin>
-			<xmax>146</xmax>
-			<ymax>43</ymax>
+			<xmax>264</xmax>
+			<ymax>90</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
-	<folder>images</folder>
+	<folder>temp</folder>
 	<filename>0170.jpg</filename>
-	<path>C:\Users\admin\Desktop\data for final project\carrot\images\0170.jpg</path>
+	<path>C:\Users\nirch\Downloads\temp\0170.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>306</width>
-		<height>165</height>
+		<width>4032</width>
+		<height>3024</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>48</xmin>
-			<ymin>50</ymin>
-			<xmax>278</xmax>
-			<ymax>132</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>carrot</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>68</xmin>
-			<ymin>35</ymin>
-			<xmax>302</xmax>
-			<ymax>143</ymax>
+			<xmin>2226</xmin>
+			<ymin>416</ymin>
+			<xmax>2730</xmax>
+			<ymax>2594</ymax>
 		</bndbox>
 	</object>
 </annotation>

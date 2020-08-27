@@ -1,26 +1,26 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0034.jpg</filename>
-	<path>C:\Users\admin\Desktop\data for final project\Lettuce\images\0034.jpg</path>
+	<path>C:\Users\admin\Desktop\משה\לימודים\שנה ג\פרויקט גמר\data for final project\carrot\images\0034.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>318</width>
-		<height>159</height>
+		<width>200</width>
+		<height>200</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>carrot</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>95</xmin>
-			<ymin>38</ymin>
-			<xmax>133</xmax>
-			<ymax>159</ymax>
+			<xmin>22</xmin>
+			<ymin>73</ymin>
+			<xmax>145</xmax>
+			<ymax>152</ymax>
 		</bndbox>
 	</object>
 </annotation>

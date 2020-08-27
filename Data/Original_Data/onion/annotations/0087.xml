@@ -1,26 +1,26 @@
 <annotation>
-	<folder>images</folder>
+	<folder>temp</folder>
 	<filename>0087.jpg</filename>
-	<path>C:\Users\nirch\OneDrive\שולחן העבודה\Smart Fridge\onion\images\0087.jpg</path>
+	<path>C:\Users\nirch\Downloads\temp\0087.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>768</height>
+		<width>4032</width>
+		<height>3024</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Onion</name>
+		<name>onion</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>486</xmin>
-			<ymin>306</ymin>
-			<xmax>682</xmax>
-			<ymax>474</ymax>
+			<xmin>2113</xmin>
+			<ymin>1216</ymin>
+			<xmax>2813</xmax>
+			<ymax>1885</ymax>
 		</bndbox>
 	</object>
 </annotation>

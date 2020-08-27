@@ -1,38 +1,26 @@
 <annotation>
-	<folder>images</folder>
+	<folder>temp</folder>
 	<filename>0007.jpg</filename>
-	<path>C:\Users\nirch\OneDrive\שולחן העבודה\Smart Fridge\Cheese\images\0007.jpg</path>
+	<path>C:\Users\nirch\Downloads\temp\0007.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>278</width>
-		<height>182</height>
+		<width>4032</width>
+		<height>3024</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>Cheese</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>39</xmin>
-			<ymin>2</ymin>
-			<xmax>159</xmax>
-			<ymax>182</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cheese</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>169</xmin>
-			<ymin>6</ymin>
-			<xmax>278</xmax>
-			<ymax>177</ymax>
+			<xmin>1174</xmin>
+			<ymin>894</ymin>
+			<xmax>2752</xmax>
+			<ymax>1929</ymax>
 		</bndbox>
 	</object>
 </annotation>

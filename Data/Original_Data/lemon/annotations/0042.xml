@@ -1,26 +1,26 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0042.jpg</filename>
-	<path>C:\Users\admin\Desktop\data for final project\lemon\images\0042.jpg</path>
+	<path>C:\Users\admin\Desktop\משה\לימודים\שנה ג\פרויקט גמר\data for final project\lemon\images\0042.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>310</width>
-		<height>163</height>
+		<width>259</width>
+		<height>194</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Lemon</name>
+		<name>lemon</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>43</xmin>
-			<ymin>2</ymin>
-			<xmax>250</xmax>
-			<ymax>163</ymax>
+			<xmin>35</xmin>
+			<ymin>35</ymin>
+			<xmax>161</xmax>
+			<ymax>171</ymax>
 		</bndbox>
 	</object>
 </annotation>

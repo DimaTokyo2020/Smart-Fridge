@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0147.jpg</filename>
-	<path>C:\Users\admin\Desktop\data for final project\carrot\images\0147.jpg</path>
+	<path>C:\Users\admin\Desktop\משה\לימודים\שנה ג\פרויקט גמר\data for final project\carrot\images\0147.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,34 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>10</xmin>
-			<ymin>101</ymin>
-			<xmax>185</xmax>
-			<ymax>176</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>carrot</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>10</xmin>
-			<ymin>126</ymin>
-			<xmax>216</xmax>
-			<ymax>180</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>carrot</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>11</xmin>
-			<ymin>156</ymin>
-			<xmax>224</xmax>
-			<ymax>220</ymax>
+			<xmin>8</xmin>
+			<ymin>39</ymin>
+			<xmax>217</xmax>
+			<ymax>206</ymax>
 		</bndbox>
 	</object>
 </annotation>
