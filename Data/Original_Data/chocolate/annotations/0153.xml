@@ -1,26 +1,26 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0153.jpg</filename>
-	<path>C:\Users\admin\Desktop\data for final project\Chocolate\images\0153.jpg</path>
+	<path>C:\Users\nirch\OneDrive\שולחן העבודה\new folder\Chocolate\images\0153.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>238</width>
-		<height>211</height>
+		<width>4032</width>
+		<height>3024</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Chocolate</name>
+		<name>chocolate</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>5</ymin>
-			<xmax>232</xmax>
-			<ymax>195</ymax>
+			<xmin>970</xmin>
+			<ymin>1316</ymin>
+			<xmax>3356</xmax>
+			<ymax>2403</ymax>
 		</bndbox>
 	</object>
 </annotation>

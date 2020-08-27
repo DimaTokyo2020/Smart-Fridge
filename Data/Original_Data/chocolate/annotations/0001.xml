@@ -1,50 +1,26 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0001.jpg</filename>
-	<path>C:\Users\admin\Desktop\data for final project\Chocolate\images\0001.jpg</path>
+	<path>C:\Users\nirch\OneDrive\שולחן העבודה\new folder\Chocolate\images\0001.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>310</width>
-		<height>162</height>
+		<width>4032</width>
+		<height>3024</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Chocolate</name>
+		<name>chocolate</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>8</xmin>
-			<ymin>3</ymin>
-			<xmax>100</xmax>
-			<ymax>162</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Chocolate</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>109</xmin>
-			<ymin>2</ymin>
-			<xmax>202</xmax>
-			<ymax>162</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Chocolate</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>209</xmin>
-			<ymin>2</ymin>
-			<xmax>303</xmax>
-			<ymax>162</ymax>
+			<xmin>1326</xmin>
+			<ymin>333</ymin>
+			<xmax>2748</xmax>
+			<ymax>2872</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,26 +1,26 @@
 <annotation>
-	<folder>Apple</folder>
+	<folder>temp</folder>
 	<filename>0007.jpg</filename>
-	<path>C:\Users\nirch\OneDrive\שולחן העבודה\Smart Fridge\Apple\0007.jpg</path>
+	<path>C:\Users\nirch\Downloads\temp\0007.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>300</width>
-		<height>168</height>
+		<width>4032</width>
+		<height>3024</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Apple</name>
+		<name>apple</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>103</xmin>
-			<ymin>2</ymin>
-			<xmax>221</xmax>
-			<ymax>79</ymax>
+			<xmin>1509</xmin>
+			<ymin>1129</ymin>
+			<xmax>2709</xmax>
+			<ymax>2051</ymax>
 		</bndbox>
 	</object>
 </annotation>

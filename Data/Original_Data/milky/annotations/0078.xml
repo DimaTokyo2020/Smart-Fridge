@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0078.jpg</filename>
+	<path>C:\Users\nirch\OneDrive\שולחן העבודה\new folder\Milky\images\0078.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>milky</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1126</xmin>
+			<ymin>1137</ymin>
+			<xmax>2648</xmax>
+			<ymax>2124</ymax>
+		</bndbox>
+	</object>
+</annotation>
