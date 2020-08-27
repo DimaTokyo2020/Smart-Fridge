@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>tomato_455.jpg</filename>
+	<path>/content/Smart-Fridge/Data/Augmented_data/augmented_images/tomato/annotations/tomato_455.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>80</ymin>
+			<xmax>347</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>
