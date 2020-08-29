@@ -1,50 +1,26 @@
 <annotation>
-	<folder>images</folder>
+	<folder>cotage</folder>
 	<filename>0010.jpg</filename>
-	<path>C:\Users\nirch\OneDrive\שולחן העבודה\Smart Fridge\cotage\images\0010.jpg</path>
+	<path>C:\Users\nirch\Downloads\Bounding images\cotage\0010.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>278</width>
-		<height>181</height>
+		<width>1024</width>
+		<height>768</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Cotage</name>
+		<name>cotage</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>140</xmin>
-			<ymin>53</ymin>
-			<xmax>205</xmax>
-			<ymax>131</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cotage</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>134</xmin>
-			<ymin>129</ymin>
-			<xmax>205</xmax>
-			<ymax>176</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cotage</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>87</xmin>
-			<ymin>26</ymin>
-			<xmax>158</xmax>
-			<ymax>100</ymax>
+			<xmin>458</xmin>
+			<ymin>299</ymin>
+			<xmax>668</xmax>
+			<ymax>470</ymax>
 		</bndbox>
 	</object>
 </annotation>

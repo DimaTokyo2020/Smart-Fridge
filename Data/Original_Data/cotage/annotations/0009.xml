@@ -1,74 +1,26 @@
 <annotation>
-	<folder>images</folder>
+	<folder>cotage</folder>
 	<filename>0009.jpg</filename>
-	<path>C:\Users\nirch\OneDrive\שולחן העבודה\Smart Fridge\cotage\images\0009.jpg</path>
+	<path>C:\Users\nirch\Downloads\Bounding images\cotage\0009.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>300</width>
-		<height>168</height>
+		<width>1024</width>
+		<height>768</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Cotage</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>49</ymin>
-			<xmax>123</xmax>
-			<ymax>168</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cotage</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>130</xmin>
-			<ymin>99</ymin>
-			<xmax>218</xmax>
-			<ymax>168</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cotage</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>234</xmin>
-			<ymin>8</ymin>
-			<xmax>300</xmax>
-			<ymax>109</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cotage</name>
+		<name>cotage</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>128</xmin>
-			<ymin>6</ymin>
-			<xmax>239</xmax>
-			<ymax>101</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cotage</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>15</xmin>
-			<ymin>1</ymin>
-			<xmax>132</xmax>
-			<ymax>69</ymax>
+			<xmin>500</xmin>
+			<ymin>357</ymin>
+			<xmax>648</xmax>
+			<ymax>482</ymax>
 		</bndbox>
 	</object>
 </annotation>
