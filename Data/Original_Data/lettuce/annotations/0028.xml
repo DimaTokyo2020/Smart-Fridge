@@ -1,26 +1,26 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0028.jpg</filename>
-	<path>C:\Users\admin\Desktop\data for final project\Lettuce\images\0028.jpg</path>
+	<path>C:\Users\nirch\OneDrive\שולחן העבודה\lettuce\images\0028.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>282</width>
-		<height>179</height>
+		<width>275</width>
+		<height>183</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Lettuce</name>
+		<name>lettuce</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>34</xmin>
-			<ymin>3</ymin>
-			<xmax>222</xmax>
-			<ymax>179</ymax>
+			<xmin>51</xmin>
+			<ymin>7</ymin>
+			<xmax>205</xmax>
+			<ymax>180</ymax>
 		</bndbox>
 	</object>
 </annotation>

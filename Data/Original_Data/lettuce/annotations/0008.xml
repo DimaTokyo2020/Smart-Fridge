@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0008.jpg</filename>
-	<path>C:\Users\admin\Desktop\data for final project\Lettuce\images\0008.jpg</path>
+	<path>C:\Users\nirch\OneDrive\שולחן העבודה\lettuce\images\0008.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Lettuce</name>
+		<name>lettuce</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>27</xmin>
-			<ymin>3</ymin>
-			<xmax>205</xmax>
-			<ymax>91</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Lettuce</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>9</xmin>
-			<ymin>77</ymin>
-			<xmax>225</xmax>
-			<ymax>168</ymax>
+			<xmin>101</xmin>
+			<ymin>22</ymin>
+			<xmax>171</xmax>
+			<ymax>158</ymax>
 		</bndbox>
 	</object>
 </annotation>
