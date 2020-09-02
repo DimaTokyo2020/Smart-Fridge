@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0015.jpg</filename>
-	<path>C:\Users\nirch\OneDrive\שולחן העבודה\Smart Fridge\Sweet potato\images\0015.jpg</path>
+	<path>C:\Users\Admin\Desktop\Sweet_potato\images\0015.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Sweet Potato</name>
+		<name>Sweet Potatow</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>364</xmin>
-			<ymin>302</ymin>
-			<xmax>556</xmax>
-			<ymax>483</ymax>
+			<xmin>381</xmin>
+			<ymin>356</ymin>
+			<xmax>577</xmax>
+			<ymax>525</ymax>
 		</bndbox>
 	</object>
 </annotation>

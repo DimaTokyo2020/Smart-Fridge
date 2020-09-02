@@ -1,13 +1,13 @@
 <annotation>
-	<folder>temp</folder>
+	<folder>images</folder>
 	<filename>0005.jpg</filename>
-	<path>C:\Users\nirch\Downloads\temp\0005.jpg</path>
+	<path>C:\Users\Admin\Desktop\Apple\images\0005.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4032</width>
-		<height>3024</height>
+		<width>1024</width>
+		<height>768</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1361</xmin>
-			<ymin>1311</ymin>
-			<xmax>2370</xmax>
-			<ymax>2298</ymax>
+			<xmin>555</xmin>
+			<ymin>408</ymin>
+			<xmax>673</xmax>
+			<ymax>522</ymax>
 		</bndbox>
 	</object>
 </annotation>

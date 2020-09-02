@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0018.jpg</filename>
-	<path>C:\Users\nirch\OneDrive\שולחן העבודה\new folder\Milky\images\0018.jpg</path>
+	<path>C:\Users\Admin\Desktop\Milky\images\0018.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4032</width>
-		<height>3024</height>
+		<width>1024</width>
+		<height>768</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1687</xmin>
-			<ymin>1581</ymin>
-			<xmax>2530</xmax>
-			<ymax>2185</ymax>
+			<xmin>314</xmin>
+			<ymin>368</ymin>
+			<xmax>492</xmax>
+			<ymax>476</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0005.jpg</filename>
-	<path>C:\Users\admin\Desktop\משה\לימודים\שנה ג\פרויקט גמר\data for final project\carrot\images\0005.jpg</path>
+	<path>C:\Users\Admin\Desktop\Carrot\images\0005.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>255</width>
-		<height>197</height>
+		<width>1024</width>
+		<height>768</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>7</xmin>
-			<ymin>76</ymin>
-			<xmax>155</xmax>
-			<ymax>189</ymax>
+			<xmin>489</xmin>
+			<ymin>356</ymin>
+			<xmax>589</xmax>
+			<ymax>466</ymax>
 		</bndbox>
 	</object>
 </annotation>

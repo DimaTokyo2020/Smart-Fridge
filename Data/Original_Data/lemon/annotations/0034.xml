@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0034.jpg</filename>
-	<path>C:\Users\admin\Desktop\משה\לימודים\שנה ג\פרויקט גמר\data for final project\lemon\images\0034.jpg</path>
+	<path>C:\Users\Admin\Desktop\Lemon\images\0034.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>306</width>
-		<height>165</height>
+		<width>1024</width>
+		<height>768</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>55</xmin>
-			<ymin>11</ymin>
-			<xmax>273</xmax>
-			<ymax>144</ymax>
+			<xmin>442</xmin>
+			<ymin>325</ymin>
+			<xmax>646</xmax>
+			<ymax>471</ymax>
 		</bndbox>
 	</object>
 </annotation>
