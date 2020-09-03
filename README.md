@@ -41,5 +41,5 @@ If yes we check how much its bigger  then the wanted size  and then we resize th
 
 ![Algorithm schema](image3.PNG)
 
-
+![Algorithm schema](image4.PNG)
 
