@@ -39,8 +39,7 @@ Each object has his standard size, this size was tested with 60 cm distance betw
 * First we check if the object is bigger then the wanted size?
 If yes we check how much its bigger  then the wanted size  and then we resize the image and give it padding to get back the wanted size (640,480) see the example: 
 
-
-
+![Algorithm schema](image3.PNG)
 
 
 
