@@ -22,3 +22,5 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+
+![Algorithm schema](.Data/Original_Data/apple/images/0001.jpg)
