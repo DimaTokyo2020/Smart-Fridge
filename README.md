@@ -1,7 +1,7 @@
 # Smart-Fridge
 
 
-![Algorithm schema](Data/Original_Data/apple/images/0001.jpg)
+![Algorithm schema](Снимок.PNG)
 
 
 ## Table of contents
