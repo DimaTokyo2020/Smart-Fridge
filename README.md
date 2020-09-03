@@ -28,36 +28,19 @@ all boxing to be in the down right sight).
 ### Final result: 
 * all the pixels that are out of the yellow frame were created with
  random padding.
-
-
+ 
 ![Algorithm schema](Снимок.PNG)
 
 
-## General info
-This project is simple Lorem ipsum dolor generator.
-	
-## Technologies
+### Next we resize the object inside the image:
+Each object has his standard size, this size was tested with 60 cm distance between the object and the camera eye.
+
+### We bullied algorithm that resize automatically all the object inside the image:
+* First we check if the object is bigger then the wanted size?
+If yes we check how much its bigger  then the wanted size  and then we resize the image and give it padding to get back the wanted size (640,480) see the example: 
 
 
 
-
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
-
-
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
 
 
 
