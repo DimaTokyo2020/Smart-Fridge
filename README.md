@@ -1,5 +1,9 @@
 # Smart-Fridge
 
+
+![Algorithm schema](Data/Original_Data/apple/images/0001.jpg)
+
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -23,4 +27,4 @@ $ npm install
 $ npm start
 ```
 
-![Algorithm schema](Data/Original_Data/apple/images/0001.jpg)
+
